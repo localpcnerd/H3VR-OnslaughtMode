@@ -18,4 +18,4 @@ Let everything import, and once done you should have a new folder titled **Onsla
 Open up **Onslaught/Scenes/OnslaughtExampleMap.unity** to further explore and modify the map.
 For simpler maps, all you should need to do is remove the *Map-gameArea-mapGeo* gameobject and replace it with your own map. You'll want to reposition the Spawnpoints, Sosig Attack Points (the points that sosigs will run to unless distracted by gunfire or some other noise/activity), and the floating timer positions. Obviously repositioning spawn and end areas may be needed as well, depending on the scale of your map.
 
-For more complex map changes or if you'd just like more info, DM or ping me at **local pc nerd#5898**
+For more complex map changes or if you'd just like more info, DM or ping me at **@reallocal**
